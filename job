@@ -1,0 +1,4 @@
+{command}&
+jobs -l
+fg num
+快捷键 ctrl+z
